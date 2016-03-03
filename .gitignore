@@ -52,11 +52,14 @@ Temporary Items
 backend-business/.project
 backend-business/.classpath
 backend-business/.settings
+backend-business/target
 
 backend-common/.project
 backend-common/.classpath
 backend-common/.settings
+backend-common/target
 
 backend-service/.project
 backend-service/.classpath
 backend-service/.settings
+backend-service/target
